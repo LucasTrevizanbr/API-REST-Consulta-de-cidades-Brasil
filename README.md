@@ -37,7 +37,7 @@ CREATE EXTENSION earthdistance;
 ```
 Apartir disso você ja pode desenvolver localmente.
 
-##Endpoints da api em produção
+## Endpoints da api em produção
 A api ja está em ambiente de produção, você pode testar os endpoints dela pelo postman ou o próprio navegador se quiser:
 
 **https://consulta-cidades-brasil.herokuapp.com/cities** Retorna todas as cidades páginados.<br>
